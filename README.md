@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This repository is READ ONLY. It has been merged into a monorepo at [cble-platform/cble](https://github.com/cble-platform/cble)**
+
 # Cloud-Based Lab Emulator (CBLE)
 
 [![Go version](https://img.shields.io/github/go-mod/go-version/cble-platform/cble-backend?style=flat-square)](https://github.com/cble-platform/cble-backend)
